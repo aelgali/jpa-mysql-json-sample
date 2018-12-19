@@ -14,4 +14,4 @@ To run the app use the following command:
 `$ docker-compose up`
 
 The app container will exist after it finish running, and you should see the output in the terminal.
-![Run Result][./images/result.png]
+![Run Result](images/result.png)
